@@ -1,2 +1,2 @@
 # Resolusi-2023
-Repository rencana sayang ingin menjadi software engineer
+Repository rencana saya ingin menjadi software engineer
